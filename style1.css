@@ -9,3 +9,20 @@ hr {
   height: 2px;
   width: 10%;
 }
+h1 {
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+}
+h3 {
+  color: #6a67ce;
+}
+#date1,
+#stud1 {
+  color: orange;
+}
+/* .profile:hover {
+  height: 400px;
+  width: 400px;
+} */
